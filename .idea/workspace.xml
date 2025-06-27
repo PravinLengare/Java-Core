@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0cd91e43-8562-4389-ab78-37dd6c295ed2" name="Changes" comment="first commit" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PravinLengare"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PravinLengare/Java-Core.git",
+    "accountId": "5f7565d6-2915-4b2a-b02b-edc152932e37"
+  }
+}]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/OOPs/Multithreding.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/dsa_in_java/Arrays/Arrays_05.java" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2qhMOHLeSzYUSdDQBz3TJjLFrEt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="false" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.AccessModifiers (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccessModifiers (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccessModifiers (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.AccessModifiers.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Anand_Lambada_Function.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ArrayDeque.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_06.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Array_07.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Arrays_05.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CalculatingSumOfArray.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Calender_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Child (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Child (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Child (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Collections.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditional2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Conditionals.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Date_Class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Date_Time.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Date_time_formatter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EqualSumPartion.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Errors_Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandling.Pravin_Lengare (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ExceptionHandling.Pravin_Lengare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception_class (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exception_class.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise04 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise04 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise04 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise04 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise04 (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exercise04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersice03 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersice03 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersice03 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersice03 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersice03 (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Exersice03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.File_Handling.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Finally_Block.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Handling_Specific_Exception.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Hash_set.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java_Annotations (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java_Annotations (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java_Annotations (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java_Annotations.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Java_Basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Linked_List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.List.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreadings (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreadings (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreadings (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreadings (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreadings.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreding (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreding (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreding (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreding (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreding (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Multithreding.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NegativeRadiusException (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.NegativeRadiusException.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Nested_Loops.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Packages.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice13 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice13 (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice13 (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice13 (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice13 (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practice13.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practiseset11 (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Practiseset11.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pravin_Lengare.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PresentQuery.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Queries.executor&quot;: &quot;Run&quot;,
+    &quot;Application.QuestionsOnArrays.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Reference.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Setting_Priority (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Setting_Priority (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Setting_Priority (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Setting_Priority (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Setting_Priority (5).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Setting_Priority.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SolvingQuestions.executor&quot;: &quot;Run&quot;,
+    &quot;Application.TakingInput.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Constructor (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Thread_Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Throw_Throws (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Throw_Throws (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Throw_Throws (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.Throw_Throws.executor&quot;: &quot;Run&quot;,
+    &quot;Application.UseOfTryCatchBlock.executor&quot;: &quot;Run&quot;,
+    &quot;Application.basic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.bin_to_dec.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exercise_04.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ja.executor&quot;: &quot;Run&quot;,
+    &quot;Application.multipllication_table.executor&quot;: &quot;Run&quot;,
+    &quot;Application.samleforcoonsumenextline.executor&quot;: &quot;Run&quot;,
+    &quot;Application.switch_case.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;Application.thread_constructor_usingRunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.thread_constructor_usingrunnable (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.thread_constructor_usingrunnable (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.thread_constructor_usingrunnable (3).executor&quot;: &quot;Debug&quot;,
+    &quot;Application.thread_constructor_usingrunnable (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.thread_constructor_usingrunnable.executor&quot;: &quot;Run&quot;,
+    &quot;Application.threads_methods (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.threads_methods (2).executor&quot;: &quot;Run&quot;,
+    &quot;Application.threads_methods (3).executor&quot;: &quot;Run&quot;,
+    &quot;Application.threads_methods (4).executor&quot;: &quot;Run&quot;,
+    &quot;Application.threads_methods.executor&quot;: &quot;Run&quot;,
+    &quot;Application.vowel.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/webshar/IdeaProjects/Java Core&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/basic_of_java" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Arrays_05">
+    <configuration name="Array_06" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="/Library/Java/JavaVirtualMachines/jdk-23.jdk/Contents/Home" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="envFilePaths">
+        <option value="/" />
+      </option>
+      <option name="MAIN_CLASS_NAME" value="dsa_in_java.Arrays.Array_06" />
+      <module name="Java Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa_in_java.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+        <pattern>
+          <option name="PATTERN" value="dsa_in_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_07" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_in_java.Arrays.Array_07" />
+      <module name="Java Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa_in_java.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Arrays_05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dsa_in_java.Arrays.Arrays_05" />
+      <module name="Java Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dsa_in_java.Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Errors_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ExceptionHandling.Errors_Demo" />
+      <module name="Java Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ExceptionHandling.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="untitled" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vowel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="basic_of_java.vowel" />
+      <module name="Java Core" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="basic_of_java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Array_06" />
+      <item itemvalue="Application.Array_07" />
+      <item itemvalue="Application.Arrays_05" />
+      <item itemvalue="Application.Errors_Demo" />
+      <item itemvalue="Application.Main (1)" />
+      <item itemvalue="Application.vowel" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Arrays_05" />
+        <item itemvalue="Application.vowel" />
+        <item itemvalue="Application.Array_07" />
+        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="Application.Errors_Demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0cd91e43-8562-4389-ab78-37dd6c295ed2" name="Changes" comment="" />
+      <created>1735110324240</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1735110324240</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1751010904891</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1751010904891</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Java_Core$Array_07.ic" NAME="Array_07 Coverage Results" MODIFIED="1738076637487" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>dsa_in_java.Arrays.*</FILTER>
+    </SUITE>
+  </component>
+</project>
