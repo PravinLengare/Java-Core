@@ -7,7 +7,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0cd91e43-8562-4389-ab78-37dd6c295ed2" name="Changes" comment="first commit" />
+    <list default="true" id="0cd91e43-8562-4389-ab78-37dd6c295ed2" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -24,18 +26,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "PravinLengare"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;PravinLengare&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/PravinLengare/Java-Core.git",
-    "accountId": "5f7565d6-2915-4b2a-b02b-edc152932e37"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/PravinLengare/Java-Core.git&quot;,
+    &quot;accountId&quot;: &quot;5f7565d6-2915-4b2a-b02b-edc152932e37&quot;
   }
-}]]></component>
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/OOPs/Multithreding.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/dsa_in_java/Arrays/Arrays_05.java" root0="SKIP_INSPECTION" />
@@ -52,140 +54,140 @@
     <option name="showExcludedFiles" value="false" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.AccessModifiers (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.AccessModifiers (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.AccessModifiers (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.AccessModifiers.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Anand_Lambada_Function.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ArrayDeque.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_06.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Array_07.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arrays_04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Arrays_05.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Basic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CalculatingSumOfArray.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Calender_Class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Child (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Child (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Child (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Child.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Collections.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Conditional2.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Conditionals.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Date_Class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Date_Time.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Date_time_formatter.executor&quot;: &quot;Run&quot;,
-    &quot;Application.EqualSumPartion.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Errors_Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExceptionHandling.Pravin_Lengare (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.ExceptionHandling.Pravin_Lengare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exception_class (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exception_class.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise04 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise04 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise04 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise04 (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise04 (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exercise04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exersice03 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exersice03 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exersice03 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exersice03 (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exersice03 (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Exersice03.executor&quot;: &quot;Run&quot;,
-    &quot;Application.File_Handling.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Finally_Block.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Generics (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Generics (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Generics.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Handling_Specific_Exception.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Hash_set.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java_Annotations (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java_Annotations (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java_Annotations (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java_Annotations.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Java_Basic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Linked_List.executor&quot;: &quot;Run&quot;,
-    &quot;Application.List.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreadings (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreadings (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreadings (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreadings (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreadings.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreding (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreding (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreding (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreding (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreding (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Multithreding.executor&quot;: &quot;Run&quot;,
-    &quot;Application.NegativeRadiusException (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.NegativeRadiusException.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Nested_Loops.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Packages.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice13 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice13 (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice13 (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice13 (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice13 (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practice13.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practiseset11 (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Practiseset11.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Pravin_Lengare.executor&quot;: &quot;Run&quot;,
-    &quot;Application.PresentQuery.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Queries.executor&quot;: &quot;Run&quot;,
-    &quot;Application.QuestionsOnArrays.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Reference.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Setting_Priority (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Setting_Priority (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Setting_Priority (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Setting_Priority (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Setting_Priority (5).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Setting_Priority.executor&quot;: &quot;Run&quot;,
-    &quot;Application.SolvingQuestions.executor&quot;: &quot;Run&quot;,
-    &quot;Application.TakingInput.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread_Constructor (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Thread_Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Throw_Throws (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Throw_Throws (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Throw_Throws (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.Throw_Throws.executor&quot;: &quot;Run&quot;,
-    &quot;Application.UseOfTryCatchBlock.executor&quot;: &quot;Run&quot;,
-    &quot;Application.basic.executor&quot;: &quot;Run&quot;,
-    &quot;Application.bin_to_dec.executor&quot;: &quot;Run&quot;,
-    &quot;Application.exercise_04.executor&quot;: &quot;Run&quot;,
-    &quot;Application.ja.executor&quot;: &quot;Run&quot;,
-    &quot;Application.multipllication_table.executor&quot;: &quot;Run&quot;,
-    &quot;Application.samleforcoonsumenextline.executor&quot;: &quot;Run&quot;,
-    &quot;Application.switch_case.executor&quot;: &quot;Run&quot;,
-    &quot;Application.test.executor&quot;: &quot;Run&quot;,
-    &quot;Application.thread_constructor_usingRunnable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.thread_constructor_usingrunnable (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.thread_constructor_usingrunnable (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.thread_constructor_usingrunnable (3).executor&quot;: &quot;Debug&quot;,
-    &quot;Application.thread_constructor_usingrunnable (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.thread_constructor_usingrunnable.executor&quot;: &quot;Run&quot;,
-    &quot;Application.threads_methods (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.threads_methods (2).executor&quot;: &quot;Run&quot;,
-    &quot;Application.threads_methods (3).executor&quot;: &quot;Run&quot;,
-    &quot;Application.threads_methods (4).executor&quot;: &quot;Run&quot;,
-    &quot;Application.threads_methods.executor&quot;: &quot;Run&quot;,
-    &quot;Application.vowel.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;ignore.preview.features.used&quot;: &quot;true&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/webshar/IdeaProjects/Java Core&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AccessModifiers (1).executor": "Run",
+    "Application.AccessModifiers (2).executor": "Run",
+    "Application.AccessModifiers (3).executor": "Run",
+    "Application.AccessModifiers.executor": "Run",
+    "Application.Anand_Lambada_Function.executor": "Run",
+    "Application.ArrayDeque.executor": "Run",
+    "Application.Array_06.executor": "Run",
+    "Application.Array_07.executor": "Run",
+    "Application.Arrays_04.executor": "Run",
+    "Application.Arrays_05.executor": "Run",
+    "Application.Basic.executor": "Run",
+    "Application.CalculatingSumOfArray.executor": "Run",
+    "Application.Calender_Class.executor": "Run",
+    "Application.Child (1).executor": "Run",
+    "Application.Child (2).executor": "Run",
+    "Application.Child (3).executor": "Run",
+    "Application.Child.executor": "Run",
+    "Application.Collections.executor": "Run",
+    "Application.Conditional2.executor": "Run",
+    "Application.Conditionals.executor": "Run",
+    "Application.Date_Class.executor": "Run",
+    "Application.Date_Time.executor": "Run",
+    "Application.Date_time_formatter.executor": "Run",
+    "Application.EqualSumPartion.executor": "Run",
+    "Application.Errors_Demo.executor": "Run",
+    "Application.ExceptionHandling.Pravin_Lengare (1).executor": "Run",
+    "Application.ExceptionHandling.Pravin_Lengare.executor": "Run",
+    "Application.Exception_class (1).executor": "Run",
+    "Application.Exception_class.executor": "Run",
+    "Application.Exercise04 (1).executor": "Run",
+    "Application.Exercise04 (2).executor": "Run",
+    "Application.Exercise04 (3).executor": "Run",
+    "Application.Exercise04 (4).executor": "Run",
+    "Application.Exercise04 (5).executor": "Run",
+    "Application.Exercise04.executor": "Run",
+    "Application.Exersice03 (1).executor": "Run",
+    "Application.Exersice03 (2).executor": "Run",
+    "Application.Exersice03 (3).executor": "Run",
+    "Application.Exersice03 (4).executor": "Run",
+    "Application.Exersice03 (5).executor": "Run",
+    "Application.Exersice03.executor": "Run",
+    "Application.File_Handling.executor": "Run",
+    "Application.Finally_Block.executor": "Run",
+    "Application.Generics (1).executor": "Run",
+    "Application.Generics (2).executor": "Run",
+    "Application.Generics.executor": "Run",
+    "Application.Handling_Specific_Exception.executor": "Run",
+    "Application.Hash_set.executor": "Run",
+    "Application.Java_Annotations (1).executor": "Run",
+    "Application.Java_Annotations (2).executor": "Run",
+    "Application.Java_Annotations (3).executor": "Run",
+    "Application.Java_Annotations.executor": "Run",
+    "Application.Java_Basic.executor": "Run",
+    "Application.Linked_List.executor": "Run",
+    "Application.List.executor": "Run",
+    "Application.Main (1).executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Multithreadings (1).executor": "Run",
+    "Application.Multithreadings (2).executor": "Run",
+    "Application.Multithreadings (3).executor": "Run",
+    "Application.Multithreadings (4).executor": "Run",
+    "Application.Multithreadings.executor": "Run",
+    "Application.Multithreding (1).executor": "Run",
+    "Application.Multithreding (2).executor": "Run",
+    "Application.Multithreding (3).executor": "Run",
+    "Application.Multithreding (4).executor": "Run",
+    "Application.Multithreding (5).executor": "Run",
+    "Application.Multithreding.executor": "Run",
+    "Application.NegativeRadiusException (1).executor": "Run",
+    "Application.NegativeRadiusException.executor": "Run",
+    "Application.Nested_Loops.executor": "Run",
+    "Application.Packages.executor": "Run",
+    "Application.Practice13 (1).executor": "Run",
+    "Application.Practice13 (2).executor": "Run",
+    "Application.Practice13 (3).executor": "Run",
+    "Application.Practice13 (4).executor": "Run",
+    "Application.Practice13 (5).executor": "Run",
+    "Application.Practice13.executor": "Run",
+    "Application.Practiseset11 (1).executor": "Run",
+    "Application.Practiseset11.executor": "Run",
+    "Application.Pravin_Lengare.executor": "Run",
+    "Application.PresentQuery.executor": "Run",
+    "Application.Queries.executor": "Run",
+    "Application.QuestionsOnArrays.executor": "Run",
+    "Application.Reference.executor": "Run",
+    "Application.Setting_Priority (1).executor": "Run",
+    "Application.Setting_Priority (2).executor": "Run",
+    "Application.Setting_Priority (3).executor": "Run",
+    "Application.Setting_Priority (4).executor": "Run",
+    "Application.Setting_Priority (5).executor": "Run",
+    "Application.Setting_Priority.executor": "Run",
+    "Application.SolvingQuestions.executor": "Run",
+    "Application.TakingInput.executor": "Run",
+    "Application.Thread_Constructor (1).executor": "Run",
+    "Application.Thread_Constructor.executor": "Run",
+    "Application.Throw_Throws (1).executor": "Run",
+    "Application.Throw_Throws (2).executor": "Run",
+    "Application.Throw_Throws (3).executor": "Run",
+    "Application.Throw_Throws.executor": "Run",
+    "Application.UseOfTryCatchBlock.executor": "Run",
+    "Application.basic.executor": "Run",
+    "Application.bin_to_dec.executor": "Run",
+    "Application.exercise_04.executor": "Run",
+    "Application.ja.executor": "Run",
+    "Application.multipllication_table.executor": "Run",
+    "Application.samleforcoonsumenextline.executor": "Run",
+    "Application.switch_case.executor": "Run",
+    "Application.test.executor": "Run",
+    "Application.thread_constructor_usingRunnable.executor": "Run",
+    "Application.thread_constructor_usingrunnable (1).executor": "Run",
+    "Application.thread_constructor_usingrunnable (2).executor": "Run",
+    "Application.thread_constructor_usingrunnable (3).executor": "Debug",
+    "Application.thread_constructor_usingrunnable (4).executor": "Run",
+    "Application.thread_constructor_usingrunnable.executor": "Run",
+    "Application.threads_methods (1).executor": "Run",
+    "Application.threads_methods (2).executor": "Run",
+    "Application.threads_methods (3).executor": "Run",
+    "Application.threads_methods (4).executor": "Run",
+    "Application.threads_methods.executor": "Run",
+    "Application.vowel.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "ignore.preview.features.used": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/webshar/IdeaProjects/Java Core",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/basic_of_java" />
@@ -316,7 +318,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="origin/master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
